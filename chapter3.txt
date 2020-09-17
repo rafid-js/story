@@ -1,0 +1,3 @@
+this is the last text file to test 
+git and how it works
+this is a great tool to work
