@@ -1,0 +1,3 @@
+hello world how are you 
+now i'm learning git and github
+and this text is part of that learning
